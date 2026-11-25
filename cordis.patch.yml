@@ -1,0 +1,6 @@
+# This bundle inserts one Host row. The row serves the plugin's own JSON route
+# and performs the permanent deletion; its client half (client.js) contributes
+# the menu item and the confirmation dialog. No config is read.
+- insert:
+    - id: session-delete
+      name: '@todrink/dsh-session-delete'

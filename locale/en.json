@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Delete session",
+    "description": "Adds \"Delete session\" to the session context menu, directly below \"Archive session\": after a confirmation it permanently removes that session's local record — conversation, title, archived and pinned marks — instead of hiding it. A session that is running or open in this process is refused; archive still hides one without deleting it."
+  }
+}
