@@ -1,6 +1,6 @@
 {
   "name": "@todrink/dsh-session-delete",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Adds Delete session to the session menu, below Archive: permanently removes a stored session and its local history.",
   "exports": {
